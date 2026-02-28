@@ -1,0 +1,1 @@
+{"Name":"页面","Description":"页面导航","Actions":[{"Name":"上一页","Tooltip":"切换到上一页"},{"Name":"下一页","Tooltip":"切换到下一页"},{"Name":"前往页面","Tooltip":"切换到指定页码"},{"Name":"页面指示框","Tooltip":"显示当前预设文件的页码"},{"Name":"母文件夹","Tooltip":"打开母文件夹"},{"Name":"创建文件夹","Tooltip":"创建文件夹"},{"Name":"切换预设文件","Tooltip":"切换至另一个预设文件"}]}

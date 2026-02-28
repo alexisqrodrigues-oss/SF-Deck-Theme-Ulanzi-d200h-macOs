@@ -1,0 +1,1 @@
+{"Name":"頁面","Description":"頁面導航","Actions":[{"Name":"上一頁","Tooltip":"切換到上一頁"},{"Name":"下一頁","Tooltip":"切换到下一頁"},{"Name":"前往頁面","Tooltip":"切换到指定頁碼"},{"Name":"頁面指示框","Tooltip":"顯示當前预设文件的頁碼"},{"Name":"母文件夾","Tooltip":"打開母文件夾"},{"Name":"創建文件夾","Tooltip":"創建文件夾"},{"Name":"切換预设文件","Tooltip":"切換至另一個预设文件"}]}

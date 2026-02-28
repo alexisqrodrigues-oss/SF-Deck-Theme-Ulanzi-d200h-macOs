@@ -1,0 +1,18 @@
+# com.ulanzi.lightmaster.ulanziPlugin
+
+Símbolos SF usados neste conjunto:
+
+- lightbulb
+- paintpalette
+- paintpalette.fill
+- power
+- power.circle.fill
+- sparkles
+- sparkles.tv
+- sparkles.tv.fill
+- sun.max
+- sun.max.fill
+- sun.max.trianglebadge.exclamationmark
+- sun.max.trianglebadge.exclamationmark.fill
+- thermometer.sun
+- thermometer.sun.fill

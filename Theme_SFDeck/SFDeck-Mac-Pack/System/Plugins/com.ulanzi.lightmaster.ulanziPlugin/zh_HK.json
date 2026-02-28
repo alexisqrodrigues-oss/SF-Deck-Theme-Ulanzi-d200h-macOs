@@ -1,0 +1,1 @@
+{"Name":"燈光控製","Description":"燈光控製","Actions":[{"Name":"開關","Tooltip":"打開或關閉燈光"},{"Name":"亮度","Tooltip":"設置燈光亮度"},{"Name":"色溫","Tooltip":"設置燈光色温"},{"Name":"顏色","Tooltip":"設置燈光顏色"},{"Name":"光效","Tooltip":"設置光效"},{"Name":"色温&亮度","Tooltip":"設置燈光色温&亮度"},{"Name":"光效&亮度","Tooltip":"設置光效&亮度"}]}

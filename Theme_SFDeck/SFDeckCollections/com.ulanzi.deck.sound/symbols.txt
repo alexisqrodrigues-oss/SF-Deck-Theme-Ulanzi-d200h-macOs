@@ -1,0 +1,5 @@
+music.note
+play.circle
+play.circle.fill
+stop.circle
+stop.circle.fill

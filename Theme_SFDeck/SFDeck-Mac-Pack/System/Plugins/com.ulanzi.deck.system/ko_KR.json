@@ -1,0 +1,1 @@
+{"Name":"시스템","Description":"시스템 작업","Actions":[{"Name":"열기","Tooltip":"앱, 파일 또는 폴더 열기"},{"Name":"닫기","Tooltip":"앱의 모든 인스턴스 닫기"},{"Name":"웹사이트","Tooltip":"URL 열기"},{"Name":"텍스트","Tooltip":"미리 편집된 텍스트 문자열 입력"},{"Name":"단축키","Tooltip":"단축키 설정"},{"Name":"멀티미디어","Tooltip":"미디어 재생 제어"},{"Name":"단축키 전환","Tooltip":"두 개의 단축키 그룹 간 전환"}]}

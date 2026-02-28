@@ -1,0 +1,1 @@
+{"Name":"係統","Description":"係統操作","Actions":[{"Name":"打開","Tooltip":"打開應用、文件或文件夾"},{"Name":"關閉","Tooltip":"關閉應用的所有實例"},{"Name":"網站","Tooltip":"打開 URL"},{"Name":"文本","Tooltip":"輸入預編輯的文本字符串"},{"Name":"快捷鍵","Tooltip":"設置快捷鍵"},{"Name":"多媒體","Tooltip":"控制媒體播放"},{"Name":"快捷鍵切換","Tooltip":"在兩組快捷鍵之間切換"}]}

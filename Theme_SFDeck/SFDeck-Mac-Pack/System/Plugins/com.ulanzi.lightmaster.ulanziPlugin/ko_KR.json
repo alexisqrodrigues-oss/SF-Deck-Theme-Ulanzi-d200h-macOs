@@ -1,0 +1,1 @@
+{"Name":"조명 제어","Description":"조명 제어","Actions":[{"Name":"켜기/끄기","Tooltip":"조명 켜기 또는 끄기"},{"Name":"밝기","Tooltip":"조명 밝기 설정"},{"Name":"색온도","Tooltip":"조명 색온도 설정"},{"Name":"색상","Tooltip":"조명 색상 설정"},{"Name":"조명 효과","Tooltip":"조명 효과 설정"},{"Name":"색온도 및 밝기","Tooltip":"조명 색온도 및 밝기 설정"},{"Name":"조명 효과 및 밝기","Tooltip":"조명 효과 및 밝기 설정"}]}

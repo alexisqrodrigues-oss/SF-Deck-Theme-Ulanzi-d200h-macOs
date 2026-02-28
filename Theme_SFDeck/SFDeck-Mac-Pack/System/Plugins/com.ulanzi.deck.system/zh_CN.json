@@ -1,0 +1,1 @@
+{"Name":"系统","Description":"系统操作","Actions":[{"Name":"打开","Tooltip":"打开应用、文件或文件夹"},{"Name":"关闭","Tooltip":"关闭应用的所有实例"},{"Name":"网站","Tooltip":"打开 URL"},{"Name":"文本","Tooltip":"输入预编辑的文本字符串"},{"Name":"快捷键","Tooltip":"设置快捷键"},{"Name":"多媒体","Tooltip":"控制媒体播放"},{"Name":"快捷键切换","Tooltip":"在两组快捷键之间切换"}]}
